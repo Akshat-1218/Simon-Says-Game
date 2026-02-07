@@ -33,5 +33,3 @@ https://akshat-1218.github.io/Simon-Says-Game/
 - Simple and responsive UI
 
 ---
-
-## 📁 Project Structure
